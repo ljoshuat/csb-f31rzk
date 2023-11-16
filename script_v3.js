@@ -1,4 +1,4 @@
-//clear Search box when clicking
+//clear Search box when clicking TEST
 //$(".nav__search-open").on("click", function () {
 //  $("#search, #boost-pfs-search-box-0").focus();
 //});
